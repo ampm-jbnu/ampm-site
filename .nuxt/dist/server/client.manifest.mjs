@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/AMPM/Desktop/bono/ampm/ampm-site/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
